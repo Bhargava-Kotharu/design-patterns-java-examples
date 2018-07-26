@@ -1,1 +1,21 @@
-/target
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+/target/*
+target
+
+# Misc Files #
+##############
+.classpath
+.project
+.settings/*
+*/.settings/*
+webs-pri-offer-switch-utility/.settings/
+webs-pri-offer-swtich-utility/target/
+.springbeans
+${sys:log_dir}
